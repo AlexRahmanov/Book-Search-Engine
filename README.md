@@ -1,4 +1,7 @@
 # Book-Search-Engine
+A Modern websites are driven by two things: data and user demands. This shouldn't come as a surprise, as the ability to personalize user data is the cornerstone of real-world web development today. And as user demands evolve, applications need to be more performant.
+
+Book Search Engine is a fully functioning Google Books API search engine built with a RESTful API. For this demonsstration the RESTful API has been refactored to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. It's already set up to allow users to save book searches to the back end
 
 # User Story
 AS AN avid reader
@@ -38,4 +41,5 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 # Mock-Up
 
-[Video](https://drive.google.com/file/d/1REKKn8Efe5imqKrvMpx19SOfRsHV1cO-/preview)
+[Demo Video](https://drive.google.com/file/d/1REKKn8Efe5imqKrvMpx19SOfRsHV1cO-/preview)
+[Heroku App](https://lit-bayou-71141.herokuapp.com/)
